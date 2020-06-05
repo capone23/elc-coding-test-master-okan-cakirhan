@@ -1,0 +1,59 @@
+/**
+ * This file contains 'Card' component's styles
+ *
+ */
+.card {
+  width: 100%;
+  margin-bottom: 15px;
+  transition: opacity 0.3s;
+}
+
+.card-title {
+  font-size: 1rem;
+  color: rgb(0, 0, 0);
+}
+
+.card-inner {
+  background-color: #ffffff;
+  height: 100%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.information {
+  text-align: center;
+  height: 400px;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-image {
+  width: 70%;
+  height: auto;
+  object-fit: fill;
+  overflow: hidden;
+}
+
+.label {
+  color: rgb(75, 75, 75);
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Orienta, sans-serif;
+  border-bottom: double;
+}
+
+.tags {
+  color: rgb(112, 90, 90);
+  margin-bottom: 5px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Orienta, sans-serif;
+}

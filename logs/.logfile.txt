@@ -1,0 +1,381 @@
+:::: Log File ::::
+
+
+[1/6/2020 -- 19:38]  Info task started
+[1/6/2020 -- 20:2]  Scripts ran on main.js
+[1/6/2020 -- 20:2]  Scripts ran on main.js
+[1/6/2020 -- 22:36]  Scripts ran on main.js
+[1/6/2020 -- 22:36]  Scripts ran on main.js
+[1/6/2020 -- 22:36]  Scripts ran on main.js
+[1/6/2020 -- 22:36]  Scripts ran on main.js
+[1/6/2020 -- 22:36]  Scripts ran on main.js
+[1/6/2020 -- 22:46]  restarted!
+[1/6/2020 -- 22:50]  restarted!
+[1/6/2020 -- 22:52]  restarted!
+[1/6/2020 -- 22:54]  restarted!
+[1/6/2020 -- 22:54]  restarted!
+[1/6/2020 -- 22:56]  restarted!
+[1/6/2020 -- 22:56]  restarted!
+[1/6/2020 -- 23:0]  restarted!
+[1/6/2020 -- 23:2]  restarted!
+[1/6/2020 -- 23:5]  restarted!
+[1/6/2020 -- 23:6]  restarted!
+[1/6/2020 -- 23:6]  restarted!
+[1/6/2020 -- 23:8]  restarted!
+[1/6/2020 -- 23:9]  restarted!
+[1/6/2020 -- 23:11]  restarted!
+[1/6/2020 -- 23:11]  restarted!
+[1/6/2020 -- 23:17]  Scripts ran on main.js
+[1/6/2020 -- 23:20]  Scripts ran on main.js
+[1/6/2020 -- 23:22]  restarted!
+[1/6/2020 -- 23:27]  Scripts ran on main.js
+[1/6/2020 -- 23:30]  Scripts ran on main.js
+[1/6/2020 -- 23:31]  Scripts ran on main.js
+[1/6/2020 -- 23:39]  Scripts ran on main.js
+[1/6/2020 -- 23:42]  Scripts ran on main.js
+[1/6/2020 -- 23:44]  Scripts ran on main.js
+[1/6/2020 -- 23:44]  Scripts ran on main.js
+[1/6/2020 -- 23:47]  Scripts ran on main.js
+[1/6/2020 -- 23:48]  Scripts ran on main.js
+[1/6/2020 -- 23:49]  Scripts ran on main.js
+[1/6/2020 -- 23:49]  Scripts ran on main.js
+[1/6/2020 -- 23:50]  Scripts ran on main.js
+[1/6/2020 -- 23:51]  Scripts ran on main.js
+[1/6/2020 -- 23:52]  Scripts ran on main.js
+[1/6/2020 -- 23:53]  Scripts ran on main.js
+[1/6/2020 -- 23:54]  Scripts ran on main.js
+[1/6/2020 -- 23:56]  Scripts ran on main.js
+[1/6/2020 -- 23:57]  Scripts ran on main.js
+[2/6/2020 -- 0:11]  Scripts ran on main.js
+[2/6/2020 -- 0:25]  Scripts ran on main.js
+[2/6/2020 -- 0:25]  Scripts ran on main.js
+[2/6/2020 -- 0:29]  Info task started
+[2/6/2020 -- 0:31]  Scripts ran on main.js
+[2/6/2020 -- 0:34]  Sass ran on files
+[2/6/2020 -- 0:36]  Scripts ran on main.js
+[2/6/2020 -- 0:38]  Scripts ran on main.js
+[2/6/2020 -- 0:55]  Scripts ran on main.js
+[2/6/2020 -- 1:1]  Sass ran on files
+[2/6/2020 -- 1:9]  Scripts ran on main.js
+[2/6/2020 -- 1:11]  Scripts ran on main.js
+[2/6/2020 -- 1:18]  Info task started
+[2/6/2020 -- 1:20]  Sass ran on files
+[2/6/2020 -- 1:21]  Sass ran on files
+[2/6/2020 -- 1:23]  Sass ran on files
+[2/6/2020 -- 1:25]  Sass ran on files
+[2/6/2020 -- 1:26]  Sass ran on files
+[2/6/2020 -- 1:28]  Scripts ran on main.js
+[2/6/2020 -- 1:28]  Scripts ran on main.js
+[2/6/2020 -- 1:28]  Scripts ran on main.js
+[2/6/2020 -- 1:29]  Scripts ran on main.js
+[2/6/2020 -- 1:29]  Scripts ran on main.js
+[2/6/2020 -- 1:31]  Scripts ran on main.js
+[2/6/2020 -- 1:32]  Scripts ran on main.js
+[2/6/2020 -- 1:38]  Scripts ran on main.js
+[2/6/2020 -- 1:38]  Scripts ran on main.js
+[2/6/2020 -- 1:39]  Scripts ran on main.js
+[2/6/2020 -- 1:40]  Scripts ran on main.js
+[2/6/2020 -- 1:44]  Scripts ran on main.js
+[2/6/2020 -- 1:46]  Info task started
+[2/6/2020 -- 1:48]  Scripts ran on main.js
+[2/6/2020 -- 1:48]  Scripts ran on main.js
+[2/6/2020 -- 1:50]  Scripts ran on main.js
+[2/6/2020 -- 1:51]  Scripts ran on main.js
+[2/6/2020 -- 1:52]  Scripts ran on main.js
+[2/6/2020 -- 1:53]  Info task started
+[2/6/2020 -- 1:58]  Info task started
+[2/6/2020 -- 1:59]  Scripts ran on main.js
+[2/6/2020 -- 2:18]  Sass ran on files
+[2/6/2020 -- 2:18]  Sass ran on files
+[2/6/2020 -- 9:30]  Scripts ran on main.js
+[2/6/2020 -- 9:34]  Sass ran on files
+[2/6/2020 -- 9:34]  Info task started
+[2/6/2020 -- 9:35]  Sass ran on files
+[2/6/2020 -- 9:35]  Info task started
+[2/6/2020 -- 9:39]  Info task started
+[2/6/2020 -- 9:46]  Mustache Templates ran on the HTML files
+[2/6/2020 -- 9:47]  Sass ran on files
+[2/6/2020 -- 9:50]  Scripts ran on main.js
+[2/6/2020 -- 9:50]  Scripts ran on main.js
+[2/6/2020 -- 9:52]  Scripts ran on main.js
+[2/6/2020 -- 10:13]  Scripts ran on main.js
+[2/6/2020 -- 10:18]  Scripts ran on main.js
+[2/6/2020 -- 10:19]  Sass ran on files
+[2/6/2020 -- 10:19]  Scripts ran on main.js
+[2/6/2020 -- 10:20]  Scripts ran on main.js
+[2/6/2020 -- 10:21]  Scripts ran on main.js
+[2/6/2020 -- 10:23]  Scripts ran on main.js
+[2/6/2020 -- 10:24]  Scripts ran on main.js
+[2/6/2020 -- 10:27]  Scripts ran on main.js
+[2/6/2020 -- 10:28]  Scripts ran on main.js
+[2/6/2020 -- 10:30]  Scripts ran on main.js
+[2/6/2020 -- 10:31]  Scripts ran on main.js
+[2/6/2020 -- 10:31]  Scripts ran on main.js
+[2/6/2020 -- 10:32]  Scripts ran on main.js
+[2/6/2020 -- 10:33]  Scripts ran on main.js
+[2/6/2020 -- 10:35]  Scripts ran on main.js
+[2/6/2020 -- 10:37]  Scripts ran on main.js
+[2/6/2020 -- 10:40]  Scripts ran on main.js
+[2/6/2020 -- 10:42]  Scripts ran on main.js
+[2/6/2020 -- 10:42]  Scripts ran on main.js
+[2/6/2020 -- 10:43]  Scripts ran on main.js
+[2/6/2020 -- 10:50]  restarted!
+[2/6/2020 -- 10:51]  restarted!
+[2/6/2020 -- 10:53]  restarted!
+[2/6/2020 -- 13:23]  Scripts ran on main.js
+[2/6/2020 -- 13:23]  Scripts ran on main.js
+[2/6/2020 -- 13:24]  Scripts ran on main.js
+[2/6/2020 -- 13:25]  Scripts ran on main.js
+[2/6/2020 -- 13:26]  Scripts ran on main.js
+[2/6/2020 -- 13:27]  Scripts ran on main.js
+[2/6/2020 -- 13:28]  Scripts ran on main.js
+[2/6/2020 -- 13:28]  Scripts ran on main.js
+[2/6/2020 -- 13:29]  Scripts ran on main.js
+[2/6/2020 -- 13:31]  Scripts ran on main.js
+[2/6/2020 -- 13:31]  Scripts ran on main.js
+[2/6/2020 -- 13:37]  Scripts ran on main.js
+[2/6/2020 -- 13:41]  Scripts ran on main.js
+[2/6/2020 -- 13:42]  Scripts ran on main.js
+[2/6/2020 -- 13:44]  Sass ran on files
+[2/6/2020 -- 13:46]  Sass ran on files
+[2/6/2020 -- 13:48]  Sass ran on files
+[2/6/2020 -- 13:49]  Sass ran on files
+[2/6/2020 -- 13:49]  Sass ran on files
+[2/6/2020 -- 13:49]  Scripts ran on main.js
+[2/6/2020 -- 13:51]  Sass ran on files
+[2/6/2020 -- 13:51]  Sass ran on files
+[2/6/2020 -- 13:51]  Sass ran on files
+[2/6/2020 -- 13:52]  Sass ran on files
+[2/6/2020 -- 13:52]  Scripts ran on main.js
+[2/6/2020 -- 13:52]  Sass ran on files
+[2/6/2020 -- 13:54]  Sass ran on files
+[2/6/2020 -- 13:54]  Sass ran on files
+[2/6/2020 -- 13:59]  Sass ran on files
+[2/6/2020 -- 14:1]  Sass ran on files
+[2/6/2020 -- 14:2]  Sass ran on files
+[2/6/2020 -- 14:3]  Scripts ran on main.js
+[2/6/2020 -- 14:4]  Sass ran on files
+[2/6/2020 -- 14:5]  Sass ran on files
+[2/6/2020 -- 14:7]  Sass ran on files
+[2/6/2020 -- 14:7]  Sass ran on files
+[2/6/2020 -- 14:8]  Sass ran on files
+[2/6/2020 -- 14:8]  Sass ran on files
+[2/6/2020 -- 14:9]  Sass ran on files
+[2/6/2020 -- 14:9]  Sass ran on files
+[2/6/2020 -- 14:9]  Sass ran on files
+[2/6/2020 -- 14:9]  Sass ran on files
+[2/6/2020 -- 14:10]  Scripts ran on main.js
+[2/6/2020 -- 14:11]  Sass ran on files
+[2/6/2020 -- 14:11]  Scripts ran on main.js
+[2/6/2020 -- 14:11]  Scripts ran on main.js
+[2/6/2020 -- 14:12]  Scripts ran on main.js
+[2/6/2020 -- 14:13]  Scripts ran on main.js
+[2/6/2020 -- 14:16]  Sass ran on files
+[2/6/2020 -- 14:17]  Sass ran on files
+[2/6/2020 -- 14:46]  restarted!
+[2/6/2020 -- 14:53]  Scripts ran on main.js
+[2/6/2020 -- 14:54]  Scripts ran on main.js
+[2/6/2020 -- 14:54]  Sass ran on files
+[2/6/2020 -- 14:55]  Sass ran on files
+[2/6/2020 -- 14:55]  Sass ran on files
+[2/6/2020 -- 14:55]  Sass ran on files
+[2/6/2020 -- 14:56]  Sass ran on files
+[2/6/2020 -- 14:56]  Sass ran on files
+[2/6/2020 -- 14:58]  Scripts ran on main.js
+[2/6/2020 -- 15:1]  Scripts ran on main.js
+[2/6/2020 -- 15:2]  Scripts ran on main.js
+[2/6/2020 -- 15:2]  Scripts ran on main.js
+[2/6/2020 -- 15:4]  Sass ran on files
+[2/6/2020 -- 15:5]  Sass ran on files
+[2/6/2020 -- 15:6]  Sass ran on files
+[2/6/2020 -- 15:8]  Scripts ran on main.js
+[2/6/2020 -- 15:8]  Sass ran on files
+[2/6/2020 -- 15:9]  Sass ran on files
+[2/6/2020 -- 15:10]  Sass ran on files
+[2/6/2020 -- 15:11]  Sass ran on files
+[2/6/2020 -- 15:12]  Sass ran on files
+[2/6/2020 -- 15:15]  Sass ran on files
+[2/6/2020 -- 15:17]  Sass ran on files
+[2/6/2020 -- 15:18]  Scripts ran on main.js
+[2/6/2020 -- 15:21]  Sass ran on files
+[2/6/2020 -- 15:22]  Sass ran on files
+[2/6/2020 -- 15:23]  Sass ran on files
+[2/6/2020 -- 15:23]  Scripts ran on main.js
+[2/6/2020 -- 15:24]  Scripts ran on main.js
+[2/6/2020 -- 15:24]  Scripts ran on main.js
+[2/6/2020 -- 15:24]  Scripts ran on main.js
+[2/6/2020 -- 15:25]  Scripts ran on main.js
+[2/6/2020 -- 15:26]  Sass ran on files
+[2/6/2020 -- 15:26]  Sass ran on files
+[2/6/2020 -- 15:28]  Sass ran on files
+[2/6/2020 -- 15:30]  Scripts ran on main.js
+[2/6/2020 -- 15:30]  Scripts ran on main.js
+[2/6/2020 -- 15:33]  Sass ran on files
+[2/6/2020 -- 15:33]  Sass ran on files
+[2/6/2020 -- 15:34]  Sass ran on files
+[2/6/2020 -- 15:36]  Sass ran on files
+[2/6/2020 -- 15:37]  Scripts ran on main.js
+[2/6/2020 -- 15:38]  Sass ran on files
+[2/6/2020 -- 15:44]  Sass ran on files
+[2/6/2020 -- 15:44]  Scripts ran on main.js
+[2/6/2020 -- 15:46]  Scripts ran on main.js
+[2/6/2020 -- 15:46]  Sass ran on files
+[2/6/2020 -- 15:52]  Sass ran on files
+[2/6/2020 -- 15:52]  Sass ran on files
+[2/6/2020 -- 15:54]  Scripts ran on main.js
+[2/6/2020 -- 15:54]  Scripts ran on main.js
+[2/6/2020 -- 15:55]  Sass ran on files
+[2/6/2020 -- 15:56]  Sass ran on files
+[2/6/2020 -- 15:57]  Sass ran on files
+[2/6/2020 -- 15:57]  Scripts ran on main.js
+[2/6/2020 -- 15:57]  Sass ran on files
+[2/6/2020 -- 15:58]  Scripts ran on main.js
+[2/6/2020 -- 16:0]  Scripts ran on main.js
+[2/6/2020 -- 16:9]  Sass ran on files
+[2/6/2020 -- 16:9]  Scripts ran on main.js
+[2/6/2020 -- 16:9]  Sass ran on files
+[2/6/2020 -- 16:11]  Sass ran on files
+[2/6/2020 -- 16:11]  Scripts ran on main.js
+[2/6/2020 -- 16:12]  Sass ran on files
+[2/6/2020 -- 16:12]  Sass ran on files
+[2/6/2020 -- 16:12]  Sass ran on files
+[2/6/2020 -- 16:12]  Sass ran on files
+[2/6/2020 -- 16:12]  Sass ran on files
+[2/6/2020 -- 16:12]  Sass ran on files
+[2/6/2020 -- 16:14]  Sass ran on files
+[2/6/2020 -- 16:15]  Sass ran on files
+[2/6/2020 -- 16:15]  Sass ran on files
+[2/6/2020 -- 16:16]  Sass ran on files
+[2/6/2020 -- 16:16]  Sass ran on files
+[2/6/2020 -- 16:16]  Sass ran on files
+[2/6/2020 -- 16:17]  Sass ran on files
+[2/6/2020 -- 16:17]  Sass ran on files
+[2/6/2020 -- 16:19]  Sass ran on files
+[2/6/2020 -- 16:20]  Sass ran on files
+[2/6/2020 -- 16:20]  Sass ran on files
+[2/6/2020 -- 16:21]  Sass ran on files
+[2/6/2020 -- 16:21]  Sass ran on files
+[2/6/2020 -- 16:22]  Sass ran on files
+[2/6/2020 -- 16:24]  Sass ran on files
+[2/6/2020 -- 16:25]  Sass ran on files
+[2/6/2020 -- 16:26]  Sass ran on files
+[2/6/2020 -- 16:29]  Sass ran on files
+[2/6/2020 -- 16:32]  Sass ran on files
+[2/6/2020 -- 16:32]  Sass ran on files
+[2/6/2020 -- 16:32]  Sass ran on files
+[2/6/2020 -- 16:33]  Sass ran on files
+[2/6/2020 -- 16:33]  Sass ran on files
+[2/6/2020 -- 16:35]  Sass ran on files
+[2/6/2020 -- 16:35]  Sass ran on files
+[2/6/2020 -- 16:35]  Sass ran on files
+[2/6/2020 -- 16:35]  Sass ran on files
+[2/6/2020 -- 16:36]  Sass ran on files
+[2/6/2020 -- 16:37]  Sass ran on files
+[2/6/2020 -- 16:38]  Sass ran on files
+[2/6/2020 -- 16:47]  Scripts ran on main.js
+[2/6/2020 -- 16:48]  Sass ran on files
+[2/6/2020 -- 16:49]  Sass ran on files
+[2/6/2020 -- 16:49]  Sass ran on files
+[2/6/2020 -- 16:50]  Sass ran on files
+[2/6/2020 -- 16:52]  Sass ran on files
+[2/6/2020 -- 16:52]  Sass ran on files
+[2/6/2020 -- 16:53]  Sass ran on files
+[2/6/2020 -- 16:56]  Sass ran on files
+[2/6/2020 -- 16:56]  Sass ran on files
+[2/6/2020 -- 16:56]  Sass ran on files
+[2/6/2020 -- 16:57]  Scripts ran on main.js
+[2/6/2020 -- 16:58]  Scripts ran on main.js
+[2/6/2020 -- 16:58]  Scripts ran on main.js
+[2/6/2020 -- 16:59]  Scripts ran on main.js
+[2/6/2020 -- 17:36]  Sass ran on files
+[2/6/2020 -- 17:37]  Info task started
+[2/6/2020 -- 17:38]  Sass ran on files
+[2/6/2020 -- 17:38]  Sass ran on files
+[2/6/2020 -- 17:40]  Sass ran on files
+[2/6/2020 -- 17:42]  Scripts ran on main.js
+[2/6/2020 -- 17:44]  Scripts ran on main.js
+[2/6/2020 -- 17:45]  Scripts ran on main.js
+[2/6/2020 -- 17:46]  Sass ran on files
+[2/6/2020 -- 17:46]  Sass ran on files
+[2/6/2020 -- 17:47]  Scripts ran on main.js
+[2/6/2020 -- 17:48]  Sass ran on files
+[2/6/2020 -- 17:49]  Sass ran on files
+[2/6/2020 -- 17:49]  Sass ran on files
+[2/6/2020 -- 17:50]  Sass ran on files
+[2/6/2020 -- 17:50]  Sass ran on files
+[2/6/2020 -- 17:53]  Sass ran on files
+[2/6/2020 -- 17:53]  Sass ran on files
+[2/6/2020 -- 17:53]  Sass ran on files
+[2/6/2020 -- 17:54]  Sass ran on files
+[2/6/2020 -- 18:51]  Scripts ran on main.js
+[2/6/2020 -- 18:55]  Scripts ran on main.js
+[2/6/2020 -- 18:57]  Scripts ran on main.js
+[2/6/2020 -- 18:58]  Scripts ran on main.js
+[2/6/2020 -- 19:1]  Scripts ran on main.js
+[2/6/2020 -- 19:3]  Scripts ran on main.js
+[2/6/2020 -- 19:4]  Scripts ran on main.js
+[2/6/2020 -- 19:5]  Scripts ran on main.js
+[2/6/2020 -- 19:5]  Scripts ran on main.js
+[2/6/2020 -- 19:6]  Scripts ran on main.js
+[2/6/2020 -- 19:7]  restarted!
+[2/6/2020 -- 19:8]  Scripts ran on main.js
+[2/6/2020 -- 19:9]  Sass ran on files
+[2/6/2020 -- 19:9]  Sass ran on files
+[2/6/2020 -- 19:10]  Sass ran on files
+[2/6/2020 -- 19:10]  Sass ran on files
+[2/6/2020 -- 19:19]  Scripts ran on main.js
+[2/6/2020 -- 19:19]  Scripts ran on main.js
+[2/6/2020 -- 19:20]  Scripts ran on main.js
+[2/6/2020 -- 19:21]  Scripts ran on main.js
+[2/6/2020 -- 19:23]  Scripts ran on main.js
+[2/6/2020 -- 19:25]  Scripts ran on main.js
+[2/6/2020 -- 19:27]  Scripts ran on main.js
+[2/6/2020 -- 19:29]  Scripts ran on main.js
+[2/6/2020 -- 19:31]  Scripts ran on main.js
+[2/6/2020 -- 19:31]  Scripts ran on main.js
+[2/6/2020 -- 19:32]  Scripts ran on main.js
+[2/6/2020 -- 19:36]  Scripts ran on main.js
+[2/6/2020 -- 19:37]  Scripts ran on main.js
+[2/6/2020 -- 19:37]  Scripts ran on main.js
+[2/6/2020 -- 19:37]  Scripts ran on main.js
+[2/6/2020 -- 19:39]  Scripts ran on main.js
+[2/6/2020 -- 19:41]  Scripts ran on main.js
+[2/6/2020 -- 19:41]  Scripts ran on main.js
+[2/6/2020 -- 19:41]  Scripts ran on main.js
+[2/6/2020 -- 19:42]  Scripts ran on main.js
+[2/6/2020 -- 19:44]  Scripts ran on main.js
+[2/6/2020 -- 19:46]  Scripts ran on main.js
+[2/6/2020 -- 19:51]  restarted!
+[2/6/2020 -- 19:53]  Info task started
+[2/6/2020 -- 19:54]  restarted!
+[2/6/2020 -- 19:54]  restarted!
+[2/6/2020 -- 19:57]  restarted!
+[2/6/2020 -- 20:12]  Info task started
+[2/6/2020 -- 20:13]  Scripts ran on main.js
+[2/6/2020 -- 20:14]  Scripts ran on main.js
+[2/6/2020 -- 20:14]  Sass ran on files
+[2/6/2020 -- 20:18]  Info task started
+[2/6/2020 -- 20:21]  Scripts ran on main.js
+[2/6/2020 -- 20:21]  Scripts ran on main.js
+[2/6/2020 -- 20:23]  Scripts ran on main.js
+[2/6/2020 -- 20:26]  Scripts ran on main.js
+[2/6/2020 -- 20:27]  Scripts ran on main.js
+[2/6/2020 -- 20:28]  Scripts ran on main.js
+[2/6/2020 -- 20:28]  Scripts ran on main.js
+[2/6/2020 -- 20:28]  Scripts ran on main.js
+[2/6/2020 -- 20:28]  Scripts ran on main.js
+[2/6/2020 -- 20:40]  restarted!
+[2/6/2020 -- 20:41]  restarted!
+[2/6/2020 -- 20:43]  Scripts ran on main.js
+[2/6/2020 -- 20:45]  Scripts ran on main.js
+[2/6/2020 -- 20:45]  Sass ran on files
+[2/6/2020 -- 20:50]  Sass ran on files
+[2/6/2020 -- 20:50]  Sass ran on files
+[2/6/2020 -- 21:8]  Info task started
+[2/6/2020 -- 21:9]  Sass ran on files
+[2/6/2020 -- 21:10]  Sass ran on files
+[2/6/2020 -- 21:10]  Scripts ran on main.js
+[2/6/2020 -- 21:15]  Sass ran on files
+[2/6/2020 -- 21:18]  Sass ran on files
+[2/6/2020 -- 21:18]  Sass ran on files
+[2/6/2020 -- 21:25]  Info task started
